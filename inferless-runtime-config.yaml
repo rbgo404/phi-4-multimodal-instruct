@@ -1,7 +1,6 @@
 build:
   cuda_version: "12.1.1"
   python_packages:
-    - packaging==24.2
     - torch==2.6.0
     - transformers==4.48.2
     - accelerate==1.3.0
