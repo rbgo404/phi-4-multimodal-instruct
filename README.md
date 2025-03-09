@@ -84,7 +84,7 @@ curl --location '<your_inference_url>' \
             "data": [
                 128
             ],
-            "datatype": "INT64"
+            "datatype": "INT32"
         }
     ]
 }'
